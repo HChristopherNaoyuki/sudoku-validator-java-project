@@ -50,7 +50,7 @@ javac -cp .:junit-4.13.2.jar ValidSodokuDemo/SolutionTest.java
 java -cp .:junit-4.13.2.jar org.junit.runner.JUnitCore ValidSodokuDemo.SolutionTest
 ```
 
-## Example Usage
+## Snippet
 
 ```java
 char[][] validBoard = {
