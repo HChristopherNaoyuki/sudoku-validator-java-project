@@ -23,7 +23,7 @@ This project provides a Java implementation for validating Sudoku boards. It che
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ValidSudokuChecker.git
+   git clone https://github.com/HChristopherNaoyuki/sudoku-validator-java-project.git
    cd ValidSudokuChecker
    ```
 
